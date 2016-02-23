@@ -15,14 +15,8 @@ public class Model {
 	public int getNbStudent() {
 		return nbStudent;
 	}
-	public void setNbStudent(int nbStudent) {
-		this.nbStudent = nbStudent;
-	}
 	public String getMajeur() {
 		return Majeur;
-	}
-	public void setMajeur(String majeur) {
-		Majeur = majeur;
 	}
 	
 	
