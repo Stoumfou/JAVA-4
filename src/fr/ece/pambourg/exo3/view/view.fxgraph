@@ -1,0 +1,9 @@
+package fr.ece.pambourg.exo3.view
+
+import javafx.scene.layout.AnchorPane
+
+component view {
+	AnchorPane {
+		//TODO Add Nodes
+	}
+}
